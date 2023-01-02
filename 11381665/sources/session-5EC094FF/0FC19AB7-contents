@@ -1,0 +1,29 @@
+/* css styles */
+
+
+/* justificar el texto */ 
+ul, ol {
+  text-align: justify; }    
+  
+  
+.rojo {
+  color: red;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.importante {
+  color: red;
+  background-color: yellow;
+}
+
+
+p {
+  text-align: justify;         /* justificar el texto del body */      
+  line-height: 1.4;            /* anchura entre las lineas 1.0 is the default in Firefox. 2.0 provides a large space */     
+  margin: 10px 40px 10px 0px;    /* margenes entre los párafos: top, izquierda, abajo, left */   
+  font-size: 13pt;}
+}   /* tipo de letra, previamente la he importado */ 
+
